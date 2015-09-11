@@ -1,0 +1,1 @@
+http://spotlight.sztaki.hu:2222/rest/annotate?text={text}&confidence={confidence}&support={support}&spotter={supporter}&disambiguator={disambiguator}&policy={policy}&types={types}&sparql={sparql}

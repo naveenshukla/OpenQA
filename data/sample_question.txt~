@@ -1,0 +1,298 @@
+## NUM:date
+NUM:date What year was the Avery Dennison company founded ?
+NUM:date When was the first railroad from the east coast to the west coast completed ?
+NUM:date When was cigarette advertising banned on television and radio ?
+NUM:date What century does Captain Video live in ?
+NUM:date When was the women 's suffrage amendment ratified ?
+## DESC:reason
+DESC:reason Why should cigarette smoking be banned ?
+DESC:reason Why did the Shea & Gould law firm leave Los Angeles ?
+DESC:reason What made Jane Goodall famous ?
+DESC:reason Why does a wheel , e.g. a car tire , appear to spin in the opposite direction as it slows down ?
+DESC:reason Why did the Aztecs first think the Spanish were Gods ?
+## HUM:gr
+HUM:gr What Ivy League school plays its home games at Palmer Stadium ?
+HUM:gr What university football team did O.J. Simpson take to the Rose Bowl ?
+HUM:gr What 's the supreme policy-making bureau of the Soviet Communist Party ?
+HUM:gr What card company sells Christmas ornaments ?
+HUM:gr Which Japanese car maker had its biggest percentage of sale in the domestic market ?
+## LOC:state
+LOC:state What New England state covers 5.9 square miles ?
+LOC:state What states do not have state income tax ?
+LOC:state What state full of milk and honey was the destination in The Grapes of Wrath ?
+LOC:state What U.S. state lived under six flags ?
+LOC:state What are all the southern states of the U.S. ?
+## DESC:desc
+DESC:desc What steps can be taken to prevent diabetes ?
+DESC:desc What 's the difference between sleet and freezing rain ?
+DESC:desc What is the origin of gametophytic tissue ?
+DESC:desc What is the origin of the name Katie ?
+DESC:desc What is the orgin of xoxoxox ?
+## DESC:def
+DESC:def What does `` antidisestablishmentarianism '' mean ?
+DESC:def What is a nematode ?
+DESC:def What is `` flintknapping '' ?
+DESC:def What is the VDRL test of blood ?
+DESC:def What is a bone marrow transplant ?
+## NUM:count
+NUM:count How much energy is released when oxygen and hydrogen mix ?
+NUM:count How many revolutions does a standard LP make in three minutes ?
+NUM:count About how many Americans are still unaccounted for from the Vietnam war ?
+NUM:count How many astronauts have been on the moon ?
+NUM:count How many bottles of wine were prisoners in the Bastille allowed per day ?
+## NUM:period
+NUM:period What was the average life expectancy during the Stone Age ?
+NUM:period How old is the sun ?
+NUM:period How long does a pig 's orgasm last ?
+NUM:period How long does it take to travel from Tokyo to Niigata ?
+NUM:period How long do you have to live in a community to vote ?
+## ENTY:instru
+ENTY:instru Ray Charles is best known for playing what instrument ?
+ENTY:instru What instrument does Benny Carter play ?
+ENTY:instru What musical instrument did Sherlock Holmes play ?
+ENTY:instru Musician Ray Charles plays what instrument ?
+ENTY:instru What do West Indian steel bands use as instruments ?
+## ENTY:veh
+ENTY:veh What was the name of the U.S. Navy gunboat in the film The Sand Pebbles ?
+ENTY:veh What was the sister ship of the Olympic ?
+ENTY:veh Name an American made motorcycle .
+ENTY:veh What are the names of all the U.S. Navy aircraft carriers ?
+ENTY:veh What was the name of Captain Bligh 's ship ?
+## LOC:city
+LOC:city What is the largest city in the world ?
+LOC:city What two cities usually mark the extremes of English Channel swims ?
+LOC:city What Italian city of 155 were Leonardo da Vinci , Michaelangelo , and Machiavelli all working in ?
+LOC:city What 's the capital of Monaco ?
+LOC:city What is one of the cities that the University of Minnesota is located in ?
+## NUM:volsize
+NUM:volsize How big is the largest diamond ?
+NUM:volsize What is the size of the largest akita ?
+NUM:volsize How big is our galaxy in diameter ?
+NUM:volsize How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska 's north coast ?
+NUM:volsize How big is a normal size penis for a 15-year-old ?
+## ENTY:body
+ENTY:body What 's the colored part of the eye called ?
+ENTY:body What dangles over the tongue from the palate ?
+ENTY:body Where is the human skin least sensitive ?
+ENTY:body What is the weakest bone in the body ?
+ENTY:body What is the only gland in humans that can regenerate itself ?
+## ENTY:sport
+ENTY:sport What kind of sport is often associated with hooligans ?
+ENTY:sport What is a research expedition in mountain climbing ?
+ENTY:sport What four tournaments make up tennis ' Grand Slam ?
+ENTY:sport What kind of a sports team is the Wisconsin Badgers ?
+ENTY:sport What baseball outcome required nine balls in 1879 , eight balls in 1880 and seven balls in 1881 ?
+## ENTY:event
+ENTY:event What is the mission of Nike ?
+ENTY:event In what war was the first submarine used ?
+ENTY:event The trials resulting from World War II are known as what ?
+ENTY:event What phenomenon would you expect to read about in the monthly publication The Bigfoot News ?
+ENTY:event What war did the Potsdam Conference follow ?
+## NUM:speed
+NUM:speed How fast must a spacecraft travel to escape Earth 's gravity ?
+NUM:speed How fast is a 45Mhz processor ?
+NUM:speed What is the speed of the Mississippi River ?
+NUM:speed How fast can a Corvette go ?
+NUM:speed How fast is light ?
+## ENTY:substance
+ENTY:substance What harmful chemicals are in bug spray ?
+ENTY:substance What was paper made of in the late 16th century ?
+ENTY:substance What are the four elements ?
+ENTY:substance What fuel do airplanes use ?
+ENTY:substance What are the chemicals used in glowsticks ?
+## ENTY:lang
+ENTY:lang What is the main language of Sao Paulo , Brazil ?
+ENTY:lang What is one of the languages spoken by the Sioux called ?
+ENTY:lang What 's the most commonly-spoken language in Belgium ?
+ENTY:lang Name a Gaelic language .
+ENTY:lang What is one of the languages of the Sioux ?
+## ENTY:dismed
+ENTY:dismed What is a fear of sinning ?
+ENTY:dismed What is a fear of black people ?
+ENTY:dismed What is a fear of home surroundings ?
+ENTY:dismed What does a chiropodist treat ?
+ENTY:dismed What chemicals are used in lethal injection ?
+## NUM:code
+NUM:code What phone number can I call to have a tree planted ?
+NUM:code What is Columbia Tristar 's phone number ?
+NUM:code What is Columbia Tristar 's phone number ?
+NUM:code What is Columbia Tristar 's phone number ?
+NUM:code What is the telephone number for the University of Kentucky ?
+## ENTY:letter
+ENTY:letter What letter is to the right of K on a typewriter keyboard ?
+ENTY:letter What letter adorns the flag of Rwanda ?
+ENTY:letter What are the first and last letters of the Greek alphabet ?
+ENTY:letter What letter appears on the cold-water tap in Spain ?
+ENTY:letter What is the alphabet for Latin ?
+## NUM:temp
+NUM:temp What is the temperature for baking Peachy Oat Muffins ?
+NUM:temp How hot should the oven be when making Peachy Oat Muffins ?
+NUM:temp What 's the Fahrenheit equivalent of zero degrees centigrade ?
+NUM:temp How hot should the oven be when baking Peachy Oat Muffins ?
+NUM:temp How hot does the inside of an active volcano get ?
+## ABBR:abb
+ABBR:abb What is the abbreviated form of the National Bureau of Investigation ?
+ABBR:abb What 's the abbreviation for limited partnership ?
+ABBR:abb What is the abbreviation for Original Equipment Manufacturer ?
+ABBR:abb What is Mikhail Gorbachev 's middle initial ?
+ABBR:abb What is the abbreviation of the company name ` General Motors ' ?
+## ENTY:religion
+ENTY:religion What religion has the most members ?
+ENTY:religion What two major world religions began in India ?
+ENTY:religion What Caribbean cult did Marcus Garvey originate ?
+ENTY:religion In what religion was Isis the nature goddess ?
+## ENTY:symbol
+ENTY:symbol What sign is the best love match for a horoscope sign ?
+ENTY:symbol What 's the symbol for the zodiacal sign Gemini ?
+ENTY:symbol What is the chemical formula for napalm ?
+ENTY:symbol What was the distinguishing mark on the `` Little Rascals '' dog ?
+ENTY:symbol What sign is The Water Carrier the zodiacal symbol for ?
+## LOC:mount
+LOC:mount What are the four largest mountain ranges on the Asian continent ?
+LOC:mount What is the name of the tallest mountain in the world ?
+LOC:mount What is the name of the highest mountain in Africa ?
+LOC:mount What is the highest peak in Africa ?
+LOC:mount What Rocky Mountain ridge separates North America 's eastward and westward-flowing rivers ?
+## ENTY:cremat
+ENTY:cremat What are the most albums sold by one artist or band ?
+ENTY:cremat What was Connecticut 's first constitution called ?
+ENTY:cremat What William Makepeace Thackeray novel was made into a film by Stanley Kubrick ?
+ENTY:cremat What Tom Wolfe book is about the Mercury astronauts ?
+ENTY:cremat What did Thomas Paine write ?
+## ENTY:food
+ENTY:food What did brontosauruses eat ?
+ENTY:food What is the recipe for Eggs Benedict ?
+ENTY:food What foods contain vitamin B12 ?
+ENTY:food What is the most radioactive food ?
+ENTY:food Madonna advertises for what soft drink ?
+## ENTY:other
+ENTY:other What do Hasidic Jews refrain from while dating ?
+ENTY:other What is the one thing you need before you can purchase life insurance ?
+ENTY:other Which is the largest clock , diameter wise , in Europe ?
+ENTY:other A corgi is a kind of what ?
+ENTY:other What household facility contains a float ball , ballcock , and overflow tube ?
+## ENTY:color
+ENTY:color What colors make up a rainbow ?
+ENTY:color What color Poker chip is usually assigned the lowest value ?
+ENTY:color What color is most often used to symbolize truth ?
+ENTY:color What is the most popular sports car color ?
+ENTY:color What color was the hundred billionth crayon made by Crayola ?
+## LOC:other
+LOC:other Which continent has the most roses ?
+LOC:other What arch can you see from the Place de la Concorde ?
+LOC:other Where is the official `` zero '' of the sea level ?
+LOC:other What 's the world 's largest cathedral ?
+LOC:other What is the greatest hiking Web site ?
+## NUM:weight
+NUM:weight How much does a poodle weigh ?
+NUM:weight What is the weight of air ?
+NUM:weight What is the average weight for a man ?
+NUM:weight What is the recommended weight of a 15 year-old male that is 5 , 6 ?
+NUM:weight What is the weight of a teaspoon of matter in a black hole ?
+## ENTY:product
+ENTY:product What product does `` Mrs. Olsen '' promote ?
+ENTY:product What brand of white rum is still made in Cuba ?
+ENTY:product What product did Robert Conrad dare people to knock off his shoulder ?
+ENTY:product What is the brand name of daminozide ?
+ENTY:product What brand of jeans did Calvin Klein admit in a 1984 interview he felt more comfortable wearing ?
+## HUM:desc
+HUM:desc Who is the `` Queen Mother '' ?
+HUM:desc Who is John Macarthur , 1767-1834 ?
+HUM:desc Who was William Henry Harrison ?
+HUM:desc Who is Peter Weir ?
+HUM:desc Who was Lacan ?
+## HUM:ind
+HUM:ind What father and son won the Medal of Honor ?
+HUM:ind What famous coach said `` if you can 't beat 'em in the alley , you can 't beat 'em on the ice '' ?
+HUM:ind What Mexican leader was shot dead in 1923 ?
+HUM:ind What was football star Elroy Hirsch 's nickname ?
+HUM:ind Who is the fastest swimmer in the world ?
+## ENTY:termeq
+ENTY:termeq What do you call a date that contains sequencing numbers , like 9-8-98 ?
+ENTY:termeq What is a 2-sided object called ?
+ENTY:termeq What term does a Czech use to describe a Pole ?
+ENTY:termeq What are dinosaur droppings called ?
+ENTY:termeq What is the English translation for the word `` caliente '' ?
+## ABBR:exp
+ABBR:exp What is the full name of the PLO ?
+ABBR:exp What is a `` USB '' port on a computer ?
+ABBR:exp What is HTML ?
+ABBR:exp What does BTU mean ?
+ABBR:exp What is DTMF ?
+## NUM:other
+NUM:other What is the size of the student body at the University of Massachusetts in Amherst ?
+NUM:other What is the quantity of American soldiers still unaccounted for from the Vietnam war ?
+NUM:other What is the latitude and longitude of El Paso , Texas ?
+NUM:other How often are quadruplets born ?
+NUM:other What is the protection rate of using condoms ?
+## ENTY:word
+ENTY:word What is the word for love of pain or abuse ?
+ENTY:word What is the collective noun for geese ?
+ENTY:word What is the longest English word that can be formed using just the first row of letters on a typewriter ?
+ENTY:word What 's another word that means `` knows all '' ?
+ENTY:word What 's the singular of dice ?
+## DESC:manner
+DESC:manner How do you find out what is allowed to claim as a contibution for income tax purposes ?
+DESC:manner How do you select wine ?
+DESC:manner How close a cousin was Franklin D. to Theodore Roosevelt ?
+DESC:manner How does it make its colors ?
+DESC:manner How do birds find their way back to the same place every year ?
+## ENTY:animal
+ENTY:animal What was the name of the `` Little Rascals '' dog ?
+ENTY:animal What bird can swim but can 't fly ?
+ENTY:animal What animal has killed the most people ?
+ENTY:animal What was the name of the orca that died of a fungal infection ?
+ENTY:animal What animals can live the longest without food ?
+## HUM:title
+HUM:title What is Larry King 's occupation ?
+HUM:title What did Andy Hardy 's father do for a living ?
+HUM:title What was the occupation of Mandy Rice-Davies ?
+HUM:title What does Robin Williams do ?
+HUM:title What occupation has the highest divorce rate ?
+## ENTY:techmeth
+ENTY:techmeth Name a technique widely used to detect birth defects ?
+ENTY:techmeth What does the method called `` cold fusion '' create ?
+ENTY:techmeth What measures did Clinton take to avoid the draft ?
+ENTY:techmeth What is the correct way to use `` may '' vs. `` might '' ?
+ENTY:techmeth What is the correct way to mount a roll of toilet paper ?
+## ENTY:plant
+ENTY:plant What plant is rum made from ?
+ENTY:plant What plants are found in an estuary ?
+ENTY:plant What are some colorful flowers that will bloom in the fall in New England ?
+ENTY:plant What shrubs can be planted that will be safe from deer ?
+ENTY:plant What flower did Vincent Van Gogh paint ?
+## NUM:dist
+NUM:dist What is the world record for the longest hair ?
+NUM:dist How deep is a fathom ?
+NUM:dist What is the length of border between the Ukraine and Russia ?
+NUM:dist How far away is the moon ?
+NUM:dist How far can a man travel in outer space ?
+## NUM:ord
+NUM:ord What chapter of the Bible has the most verses ?
+NUM:ord What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?
+NUM:ord What chapter of the Bible has the most verses ?
+NUM:ord What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?
+NUM:ord Where does the U.S. rank among world countries in area ?
+## LOC:country
+LOC:country What Asian country once thrilled to the sport of cricket fighting ?
+LOC:country What is a country that starts with the letter x ?
+LOC:country What country was Erich Honecker the leader of ?
+LOC:country Name the country of giants twelve times the size of man in `` Gulliver 's Travels . ''
+LOC:country What country is the worlds leading supplier of cannabis ?
+## NUM:money
+NUM:money What amount of money did the Philippine ex-dictator Marcos steal from the treasury ?
+NUM:money What was the price of Varian Associates ' vacuum products division ?
+NUM:money What is average salary of restaurant manager in United States ?
+NUM:money What will the California gas tax be in the year 2000 ?
+NUM:money How much does the President get paid ?
+## NUM:perc
+NUM:perc What percentage of children between the ages of two and eleven watch ` The Simpsons ' ?
+NUM:perc What was Thatcher 's approval rating after 10 years in power ?
+NUM:perc What are the chances of pregnacy if the penis does not penetrate the vagina ?
+NUM:perc What are the highest-paying odds on a roulette table ?
+NUM:perc What percentage of the silver production is done by independent silversmiths ?
+## ENTY:currency
+ENTY:currency What currency is used in Australia ?
+ENTY:currency What money was used here ?
+ENTY:currency What type of currency is used in China ?
+ENTY:currency What money was used by them ?

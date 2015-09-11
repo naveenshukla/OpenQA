@@ -1,0 +1,1 @@
+http://lookup.dbpedia.org/api/search.asmx/PrefixSearch?QueryClass=&MaxHits=5&QueryString={query_string}
