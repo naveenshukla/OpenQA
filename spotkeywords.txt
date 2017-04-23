@@ -1,0 +1,7913 @@
+created
+in get_chunks
+command is : --
+question is : 
+who is the president of India?
+json is 
+{u'@confidence': u'1.0', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u''}
+json is 
+{u'@confidence': u'0.9', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u''}
+json is 
+{u'@confidence': u'0.8', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+http://live.dbpedia.org/resource/India
+json is 
+{u'@confidence': u'0.7', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+json is 
+{u'@confidence': u'0.6', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+json is 
+{u'@confidence': u'0.5', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+json is 
+{u'@confidence': u'0.4', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+json is 
+{u'@confidence': u'0.3', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'8449', u'@URI': u'http://dbpedia.org/resource/President', u'@surfaceForm': u'president', u'@offset': u'11', u'@percentageOfSecondRank': u'0.10521176511309328', u'@similarityScore': u'0.822425714120137', u'@types': u''}, {u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+http://live.dbpedia.org/resource/President
+json is 
+{u'@confidence': u'0.2', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'8449', u'@URI': u'http://dbpedia.org/resource/President', u'@surfaceForm': u'president', u'@offset': u'11', u'@percentageOfSecondRank': u'0.10521176511309328', u'@similarityScore': u'0.822425714120137', u'@types': u''}, {u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+json is 
+{u'@confidence': u'0.1', u'@sparql': u'', u'@support': u'0', u'@text': u'who is the president of India?', u'@policy': u'whitelist', u'@types': u'', u'Resources': [{u'@support': u'8449', u'@URI': u'http://dbpedia.org/resource/President', u'@surfaceForm': u'president', u'@offset': u'11', u'@percentageOfSecondRank': u'0.10521176511309328', u'@similarityScore': u'0.822425714120137', u'@types': u''}, {u'@support': u'205833', u'@URI': u'http://dbpedia.org/resource/India', u'@surfaceForm': u'India', u'@offset': u'24', u'@percentageOfSecondRank': u'1.3690700008282437E-4', u'@similarityScore': u'0.9996189169424198', u'@types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}]}
+ spot keywords 
+{'1': {'url': u'http://live.dbpedia.org/resource/India', 'surfaceForm': u'India', 'types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}, '2': {'url': u'http://live.dbpedia.org/resource/President', 'surfaceForm': u'president', 'types': u''}}
+in main, mother_hash --
+{'ques_chunks': {'1': 'president', '2': 'India'}, 'tag_sent': [('who', 'WP'), ('is', 'VBZ'), ('the', 'DT'), ('president', 'NN'), ('of', 'IN'), ('India', 'NNP'), ('?', '.')], 'spot_keywords': {'1': {'url': u'http://live.dbpedia.org/resource/India', 'surfaceForm': u'India', 'types': u'Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country'}, '2': {'url': u'http://live.dbpedia.org/resource/President', 'surfaceForm': u'president', 'types': u''}}, 'ques': 'who is the president of India?', 'num_ques_chunks': 2, 'ques_class': 'LOC:other'}
+In two_node
+ in get onotlogy 
+India
+ synonym of 
+president
+synonyms 
+['premier', 'leader', 'boss', 'commander in chief', 'prime minister', 'CEO', 'chief executive officer', 'chief of state', 'head of state', 'person in charge']
+size of synonyms keyword
+keys
+['http://dbpedia.org/property/dstNote', 'http://dbpedia.org/property/cctld', 'http://dbpedia.org/ontology/PopulatedPlace/areaTotal', 'http://dbpedia.org/property/englishmotto', 'http://dbpedia.org/property/sovereigntyType', 'http://dbpedia.org/property/utcOffset', 'http://dbpedia.org/ontology/demonym', 'http://dbpedia.org/property/areaRank', 'http://dbpedia.org/ontology/wikiPageLength', 'http://dbpedia.org/property/languagesSub', 'http://dbpedia.org/property/timeZone', 'http://xmlns.com/foaf/0.1/isPrimaryTopicOf', 'http://www.w3.org/2003/01/geo/wgs84_pos#lat', 'http://dbpedia.org/ontology/wikiPageRevisionLink', 'http://dbpedia.org/property/languages2Sub', 'http://dbpedia.org/property/languages', 'http://dbpedia.org/property/mapCaption', 'http://dbpedia.org/property/tree', 'http://dbpedia.org/ontology/areaTotal', 'http://dbpedia.org/ontology/wikiPageID', 'http://www.georss.org/georss/point', 'http://dbpedia.org/property/gdpPpp', 'http://dbpedia.org/property/fruit', 'http://dbpedia.org/property/imageMap', 'http://dbpedia.org/property/officialLanguages', 'http://dbpedia.org/property/governmentType', 'http://dbpedia.org/property/hdi', 'http://dbpedia.org/property/anthem', 'http://dbpedia.org/property/gdpPppPerCapitaRank', 'http://dbpedia.org/property/altFlag', 'http://dbpedia.org/property/leaderTitle', 'http://dbpedia.org/property/areaKm', 'http://www.w3.org/2000/01/rdf-schema#seeAlso', 'http://dbpedia.org/property/currency', 'http://dbpedia.org/property/conventionalLongName', 'http://dbpedia.org/property/altMap', 'http://dbpedia.org/property/emblem', 'http://dbpedia.org/property/small', 'http://dbpedia.org/property/legislature', 'http://dbpedia.org/ontology/officialLanguage', 'http://dbpedia.org/property/dateFormat', 'http://dbpedia.org/property/nationalAnthem', 'http://dbpedia.org/property/giniYear', 'http://www.w3.org/2003/01/geo/wgs84_pos#long', 'http://dbpedia.org/property/sovereigntyNote', 'http://dbpedia.org/property/percentWater', 'http://dbpedia.org/property/giniRank', 'http://dbpedia.org/ontology/wikiPageExternalLink', 'http://dbpedia.org/property/religion', 'http://dbpedia.org/property/hdiChange', 'http://dbpedia.org/property/symbolWidth', 'http://dbpedia.org/property/s', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/property/languagesType', 'http://dbpedia.org/property/timeZoneDst', 'http://dbpedia.org/property/gdpPppYear', 'http://dbpedia.org/ontology/populationTotal', 'http://dbpedia.org/property/voySearch', 'http://dbpedia.org/property/hdiYear', 'http://dbpedia.org/property/drivesOn', 'http://dbpedia.org/property/v', 'http://dbpedia.org/ontology/wikiPageOutDegree', 'http://dbpedia.org/property/calendar', 'http://dbpedia.org/property/areaMagnitude', 'http://dbpedia.org/property/imageCoat', 'http://xmlns.com/foaf/0.1/homepage', 'http://dbpedia.org/ontology/wikiPageRevisionID', 'http://dbpedia.org/property/bird', 'http://dbpedia.org/property/longew', 'http://dbpedia.org/ontology/currency', 'http://dbpedia.org/property/populationDensityRank', 'http://dbpedia.org/property/gdpNominalYear', 'http://dbpedia.org/property/populationEstimateRank', 'http://dbpedia.org/ontology/longName', 'http://dbpedia.org/property/populationEstimate', 'http://dbpedia.org/property/animal', 'http://dbpedia.org/property/q', 'http://dbpedia.org/property/establishedDate', 'http://dbpedia.org/property/reason', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/foundingDate', 'http://dbpedia.org/ontology/capital', 'http://dbpedia.org/property/largestCity', 'http://dbpedia.org/property/capital', 'http://dbpedia.org/property/lowerHouse', 'http://dbpedia.org/property/nativeName', 'http://dbpedia.org/property/populationCensusYear', 'http://dbpedia.org/property/regionType', 'http://dbpedia.org/property/gdpNominal', 'http://dbpedia.org/property/river', 'http://dbpedia.org/property/gdpNominalPerCapita', 'http://dbpedia.org/ontology/wikiPageModified', 'http://dbpedia.org/property/gdpPppPerCapita', 'http://dbpedia.org/property/populationCensus', 'http://dbpedia.org/ontology/flag', 'http://dbpedia.org/property/commonName', 'http://dbpedia.org/property/gdpNominalPerCapitaRank', 'http://dbpedia.org/ontology/percentageOfAreaWater', 'http://dbpedia.org/property/voy', 'http://dbpedia.org/ontology/wikiPageExtracted', 'http://dbpedia.org/property/altCoat', 'http://dbpedia.org/ontology/wikiPageEditLink', 'http://dbpedia.org/property/gdpNominalRank', 'http://dbpedia.org/ontology/governmentType', 'http://dbpedia.org/property/establishedEvent', 'http://dbpedia.org/ontology/timeZone', 'http://dbpedia.org/property/gdpPppRank', 'http://dbpedia.org/property/n', 'http://dbpedia.org/property/commons', 'http://dbpedia.org/property/flag', 'http://dbpedia.org/property/right', 'http://dbpedia.org/property/imageFlag', 'http://dbpedia.org/ontology/leader', 'http://dbpedia.org/property/gini', 'http://dbpedia.org/ontology/wikiPageHistoryLink', 'http://dbpedia.org/property/symbolType', 'http://dbpedia.org/property/b', 'http://dbpedia.org/ontology/leaderTitle', 'http://dbpedia.org/property/upperHouse', 'http://dbpedia.org/property/latns', 'http://dbpedia.org/property/language', 'http://dbpedia.org/property/areaSqMi', 'http://www.w3.org/2003/01/geo/wgs84_pos#geometry', 'http://dbpedia.org/ontology/abstract', 'http://purl.org/dc/terms/subject', 'http://dbpedia.org/ontology/largestCity', 'http://dbpedia.org/property/leaderName', 'http://dbpedia.org/property/song', 'http://dbpedia.org/property/otherSymbol', 'http://www.w3.org/2000/01/rdf-schema#label', 'http://dbpedia.org/ontology/language', 'http://dbpedia.org/property/title', 'http://dbpedia.org/property/demonym', 'http://dbpedia.org/property/currencyCode', 'http://dbpedia.org/property/flower', 'http://www.w3.org/2000/01/rdf-schema#comment', 'http://dbpedia.org/property/otherSymbolType', 'http://dbpedia.org/property/populationEstimateYear', 'http://dbpedia.org/property/callingCode', 'http://dbpedia.org/property/populationCensusRank', 'http://xmlns.com/foaf/0.1/name', 'http://dbpedia.org/property/game', 'http://dbpedia.org/property/mapWidth']
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+1
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+2
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+3
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+4
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+5
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+6
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+7
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+8
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+9
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+10
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+11
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+12
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+13
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+14
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+15
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+16
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+17
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+18
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+19
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+20
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+21
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+22
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+23
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+24
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+25
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+26
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+27
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+28
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+29
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+30
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+31
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+32
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+33
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+34
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+35
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+36
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+37
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+38
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+39
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+40
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+41
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+42
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+43
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+44
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+45
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+46
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+47
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+48
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+49
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+50
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+51
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+52
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+53
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+54
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+55
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+56
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+57
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+58
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+59
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+60
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+61
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+62
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+63
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+64
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+65
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+66
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+67
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+68
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+69
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+70
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+71
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+72
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+73
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+74
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+75
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+76
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+77
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+78
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+79
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+80
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+81
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+82
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+83
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+84
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+85
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+86
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+87
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+88
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+89
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+90
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+91
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+92
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+93
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+94
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+95
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+96
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+97
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+98
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+99
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+100
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+101
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+102
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+103
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+104
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+105
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+106
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+107
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+108
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+109
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+110
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+111
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+112
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+113
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+114
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+115
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+116
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+117
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+118
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+119
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+120
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+121
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+122
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+123
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+124
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+125
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+126
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+127
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+128
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+129
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+130
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+131
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+132
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+133
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+134
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+135
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+136
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+137
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+138
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+139
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+140
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+141
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+142
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+143
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+144
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+145
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+146
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+147
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+148
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+149
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+150
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+151
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+152
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+153
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+154
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+155
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+156
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+157
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+158
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+159
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+160
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+161
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+162
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+163
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+164
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+165
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+166
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+167
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+168
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+169
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+170
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+171
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+172
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+173
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+174
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+175
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+176
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+177
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+178
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+179
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+180
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+181
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+182
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+183
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+184
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+185
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+186
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+187
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+188
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+189
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+190
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+191
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+192
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+193
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+194
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+195
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+196
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+197
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+198
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+199
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+200
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+201
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+202
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+203
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+204
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+205
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+206
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+207
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+208
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+209
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+210
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+211
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+212
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+213
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+214
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+215
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+216
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+217
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+218
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+219
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+220
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+221
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+222
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+223
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+224
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+225
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+226
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+227
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+228
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+229
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+230
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+231
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+232
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+233
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+234
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+235
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+236
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+237
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+238
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+239
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+240
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+241
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+242
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+243
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+244
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+245
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+246
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+247
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+248
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+249
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+250
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+251
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+252
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+253
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+254
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+255
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+256
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+257
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+258
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+259
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+260
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+261
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+262
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+263
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+264
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+265
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+266
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+267
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+268
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+269
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+270
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+271
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+272
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+273
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+274
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+275
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+276
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+277
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+278
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+279
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+280
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+281
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+282
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+283
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+284
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+285
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+286
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+287
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+288
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+289
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+290
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+291
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+292
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+293
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+294
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+295
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+296
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+297
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+298
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+299
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+300
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+301
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+302
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+303
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+304
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+305
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+306
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+307
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+308
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+309
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+310
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+311
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+312
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+313
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+314
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+315
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+316
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+317
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+318
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+319
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+320
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+321
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+322
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+323
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+324
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+325
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+326
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+327
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+328
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+329
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+330
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+331
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+332
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+333
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+334
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+335
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+336
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+337
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+338
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+339
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+340
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+341
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+342
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+343
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+344
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+345
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+346
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+347
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+348
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+349
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+350
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+351
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+352
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+353
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+354
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+355
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+356
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+357
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+358
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+359
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+360
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+361
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+362
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+363
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+364
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+365
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+366
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+367
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+368
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+369
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+370
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+371
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+372
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+373
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+374
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+375
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+376
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+377
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+378
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+379
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+380
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+381
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+382
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+383
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+384
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+385
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+386
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+387
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+388
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+389
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+390
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+391
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+392
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+393
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+394
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+395
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+396
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+397
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+398
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+399
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+400
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+401
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+402
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+403
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+404
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+405
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+406
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+407
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+408
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+409
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+410
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+411
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+412
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+413
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+414
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+415
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+416
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+417
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+418
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+419
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+420
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+421
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+422
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+423
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+424
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+425
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+426
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+427
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+428
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+429
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+430
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+431
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+432
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+433
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+434
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+435
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+436
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+437
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+438
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+439
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+440
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+441
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+442
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+443
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+444
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+445
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+446
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+447
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+448
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+449
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+450
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+451
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+452
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+453
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+454
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+455
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+456
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+457
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+458
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+459
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+460
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+461
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+462
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+463
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+464
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+465
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+466
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+467
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+468
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+469
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+470
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+471
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+472
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+473
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+474
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+475
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+476
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+477
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+478
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+479
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+480
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+481
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+482
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+483
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+484
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+485
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+486
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+487
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+488
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+489
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+490
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+491
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+492
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+493
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+494
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+495
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+496
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+497
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+498
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+499
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+500
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+501
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+502
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+503
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+504
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+505
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+506
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+507
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+508
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+509
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+510
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+511
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+512
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+513
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+514
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+515
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+516
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+517
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+518
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+519
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+520
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+521
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+522
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+523
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+524
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+525
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+526
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+527
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+528
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+529
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+530
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+531
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+532
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+533
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+534
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+535
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+536
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+537
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+538
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+539
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+540
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+541
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+542
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+543
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+544
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+545
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+546
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+547
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+548
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+549
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+550
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+551
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+552
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+553
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+554
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+555
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+556
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+557
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+558
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+559
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+560
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+561
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+562
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+563
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+564
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+565
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+566
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+567
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+568
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+569
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+570
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+571
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+572
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+573
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+574
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+575
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+576
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+577
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+578
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+579
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+580
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+581
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+582
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+583
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+584
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+585
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+586
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+587
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+588
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+589
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+590
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+591
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+592
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+593
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+594
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+595
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+596
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+597
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+598
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+599
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+600
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+601
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+602
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+603
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+604
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+605
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+606
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+607
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+608
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+609
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+610
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+611
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+612
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+613
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+614
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+615
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+616
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+617
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+618
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+619
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+620
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+621
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+622
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+623
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+624
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+625
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+626
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+627
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+628
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+629
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+630
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+631
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+632
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+633
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+634
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+635
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+636
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+637
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+638
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+639
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+640
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+641
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+642
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+643
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+644
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+645
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+646
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+647
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+648
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+649
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+650
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+651
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+652
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+653
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+654
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+655
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+656
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+657
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+658
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+659
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+660
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+661
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+662
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+663
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+664
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+665
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+666
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+667
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+668
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+669
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+670
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+671
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+672
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+673
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+674
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+675
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+676
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+677
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+678
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+679
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+680
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+681
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+682
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+683
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+684
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+685
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+686
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+687
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+688
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+689
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+690
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+691
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+692
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+693
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+694
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+695
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+696
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+697
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+698
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+699
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+700
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+701
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+702
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+703
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+704
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+705
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+706
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+707
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+708
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+709
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+710
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+711
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+712
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+713
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+714
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+715
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+716
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+717
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+718
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+719
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+720
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+721
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+722
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+723
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+724
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+725
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+726
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+727
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+728
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+729
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+730
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+731
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+732
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+733
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+734
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+735
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+736
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+737
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+738
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+739
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+740
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+741
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+742
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+743
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+744
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+745
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+746
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+747
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+748
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+749
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+750
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+751
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+752
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+753
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+754
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+755
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+756
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+757
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+758
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+759
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+760
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+761
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+762
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+763
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+764
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+765
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+766
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+767
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+768
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+769
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+770
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+771
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+772
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+773
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+774
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+775
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+776
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+777
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+778
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+779
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+780
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+781
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+782
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+783
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+784
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+785
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+786
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+787
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+788
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+789
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+790
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+791
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+792
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+793
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+794
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+795
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+796
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+797
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+798
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+799
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+800
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+801
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+802
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+803
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+804
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+805
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+806
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+807
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+808
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+809
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+810
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+811
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+812
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+813
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+814
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+815
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+816
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+817
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+818
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+819
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+820
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+821
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+822
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+823
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+824
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+825
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+826
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+827
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+828
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+829
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+830
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+831
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+832
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+833
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+834
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+835
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+836
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+837
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+838
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+839
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+840
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+841
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+842
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+843
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+844
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+845
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+846
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+847
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+848
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+849
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+850
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+851
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+852
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+853
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+854
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+855
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+856
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+857
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+858
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+859
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+860
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+861
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+862
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+863
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+864
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+865
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+866
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+867
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+868
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+869
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+870
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+871
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+872
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+873
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+874
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+875
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+876
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+877
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+878
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+879
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+880
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+881
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+882
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+883
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+884
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+885
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+886
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+887
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+888
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+889
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+890
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+891
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+892
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+893
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+894
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+895
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+896
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+897
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+898
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+899
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+900
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+901
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+902
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+903
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+904
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+905
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+906
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+907
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+908
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+909
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+910
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+911
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+912
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+913
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+914
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+915
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+916
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+917
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+918
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+919
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+920
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+921
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+922
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+923
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+924
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+925
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+926
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+927
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+928
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+929
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+930
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+931
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+932
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+933
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+934
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+935
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+936
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+937
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+938
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+939
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+940
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+941
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+942
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+943
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+944
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+945
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+946
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+947
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+948
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+949
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+950
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+951
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+952
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+953
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+954
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+955
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+956
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+957
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+958
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+959
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+960
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+961
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+962
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+963
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+964
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+965
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+966
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+967
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+968
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+969
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+970
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+971
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+972
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+973
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+974
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+975
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+976
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+977
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+978
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+979
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+980
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+981
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+982
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+983
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+984
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+985
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+986
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+987
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+988
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+989
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+990
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+991
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+992
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+993
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+994
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+995
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+996
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+997
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+998
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+999
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+1000
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+1001
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+1002
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+1003
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+1004
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+1005
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+1006
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+1007
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+1008
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+1009
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+1010
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+1011
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+1012
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+1013
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+1014
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+1015
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+1016
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+1017
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+1018
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+1019
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+1020
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+1021
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+1022
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+1023
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+1024
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+1025
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+1026
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+1027
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+1028
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+1029
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+1030
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+1031
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+1032
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+1033
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+1034
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+1035
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+1036
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+1037
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+1038
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+1039
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+1040
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+1041
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+1042
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+1043
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+1044
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+1045
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+1046
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+1047
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+1048
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+1049
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+1050
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+1051
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+1052
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+1053
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+1054
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+1055
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+1056
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+1057
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+1058
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+1059
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+1060
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+1061
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+1062
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+1063
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+1064
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+1065
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+1066
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+1067
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+1068
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+1069
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+1070
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+1071
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+1072
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+1073
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+1074
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+1075
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+1076
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+1077
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+1078
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+1079
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+1080
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+1081
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+1082
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+1083
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+1084
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+1085
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+1086
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+1087
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+1088
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+1089
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+1090
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+1091
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+1092
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+1093
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+1094
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+1095
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+1096
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+1097
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+1098
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+1099
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+1100
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+1101
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+1102
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+1103
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+1104
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+1105
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+1106
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+1107
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+1108
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+1109
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+1110
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+1111
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+1112
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+1113
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+1114
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+1115
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+1116
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+1117
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+1118
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+1119
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+1120
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+1121
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+1122
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+1123
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+1124
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+1125
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+1126
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+1127
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+1128
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+1129
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+1130
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+1131
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+1132
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+1133
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+1134
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+1135
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+1136
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+1137
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+1138
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+1139
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+1140
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+1141
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+1142
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+1143
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+1144
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+1145
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+1146
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+1147
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+1148
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+1149
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+1150
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+1151
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+1152
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+1153
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+1154
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+1155
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+1156
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+1157
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+1158
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+1159
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+1160
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+1161
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+1162
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+1163
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+1164
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+1165
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+1166
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+1167
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+1168
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+1169
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+1170
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+1171
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+1172
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+1173
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+1174
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+1175
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+1176
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+1177
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+1178
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+1179
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+1180
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+1181
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+1182
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+1183
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+1184
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+1185
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+1186
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+1187
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+1188
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+1189
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+1190
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+1191
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+1192
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+1193
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+1194
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+1195
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+1196
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+1197
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+1198
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+1199
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+1200
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+1201
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+1202
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+1203
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+1204
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+1205
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+1206
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+1207
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+1208
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+1209
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+1210
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+1211
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+1212
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+1213
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+1214
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+1215
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+1216
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+1217
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+1218
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+1219
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+1220
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+1221
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+1222
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+1223
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+1224
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+1225
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+1226
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+1227
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+1228
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+1229
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+1230
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+1231
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+1232
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+1233
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+1234
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+1235
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+1236
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+1237
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+1238
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+1239
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+1240
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+1241
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+1242
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+1243
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+1244
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+1245
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+1246
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+1247
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+1248
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+1249
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+1250
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+1251
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+1252
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+1253
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+1254
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+1255
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+1256
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+1257
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+1258
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+1259
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+1260
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+1261
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+1262
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+1263
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+1264
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+1265
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+1266
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+1267
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+1268
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+1269
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+1270
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+1271
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+1272
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+1273
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+1274
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+1275
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+1276
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+1277
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+1278
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+1279
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+1280
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+1281
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+1282
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+1283
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+1284
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+1285
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+1286
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+1287
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+1288
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+1289
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+1290
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+1291
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+1292
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+1293
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+1294
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+1295
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+1296
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+1297
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+1298
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+1299
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+1300
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+1301
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+1302
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+1303
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+1304
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+1305
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+1306
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+1307
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+1308
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+1309
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+1310
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+1311
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+1312
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+1313
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+1314
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+1315
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+1316
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+1317
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+1318
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+1319
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+1320
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+1321
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+1322
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+1323
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+1324
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+1325
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+1326
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+1327
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+1328
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+1329
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+1330
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+1331
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+1332
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+1333
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+1334
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+1335
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+1336
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+1337
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+1338
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+1339
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+1340
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+1341
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+1342
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+1343
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+1344
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+1345
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+1346
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+1347
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+1348
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+1349
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+1350
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+1351
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+1352
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+1353
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+1354
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+1355
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+1356
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+1357
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+1358
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+1359
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+1360
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+1361
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+1362
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+1363
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+1364
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+1365
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+1366
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+1367
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+1368
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+1369
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+1370
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+1371
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+1372
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+1373
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+1374
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+1375
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+1376
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+1377
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+1378
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+1379
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+1380
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+1381
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+1382
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+1383
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+1384
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+1385
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+1386
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+1387
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+1388
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+1389
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+1390
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+1391
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+1392
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+1393
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+1394
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+1395
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+1396
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+1397
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+1398
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+1399
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+1400
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+1401
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+1402
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+1403
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+1404
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+1405
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+1406
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+1407
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+1408
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+1409
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+1410
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+1411
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+1412
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+1413
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+1414
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+1415
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+1416
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+1417
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+1418
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+1419
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+1420
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+1421
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+1422
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+1423
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+1424
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+1425
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+1426
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+1427
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+1428
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+1429
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+1430
+haha
+onto keys
+http://dbpedia.org/property/dstNote
+dstNote
+1431
+haha
+onto keys
+http://dbpedia.org/property/cctld
+cctld
+1432
+haha
+onto keys
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+areaTotal
+1433
+haha
+onto keys
+http://dbpedia.org/property/englishmotto
+englishmotto
+1434
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyType
+sovereigntyType
+1435
+haha
+onto keys
+http://dbpedia.org/property/utcOffset
+utcOffset
+1436
+haha
+onto keys
+http://dbpedia.org/ontology/demonym
+demonym
+1437
+haha
+onto keys
+http://dbpedia.org/property/areaRank
+areaRank
+1438
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageLength
+wikiPageLength
+1439
+haha
+onto keys
+http://dbpedia.org/property/languagesSub
+languagesSub
+1440
+haha
+onto keys
+http://dbpedia.org/property/timeZone
+timeZone
+1441
+haha
+onto keys
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+isPrimaryTopicOf
+1442
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+wgs84_pos#lat
+1443
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionLink
+wikiPageRevisionLink
+1444
+haha
+onto keys
+http://dbpedia.org/property/languages2Sub
+languages2Sub
+1445
+haha
+onto keys
+http://dbpedia.org/property/languages
+languages
+1446
+haha
+onto keys
+http://dbpedia.org/property/mapCaption
+mapCaption
+1447
+haha
+onto keys
+http://dbpedia.org/property/tree
+tree
+1448
+haha
+onto keys
+http://dbpedia.org/ontology/areaTotal
+areaTotal
+1449
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageID
+wikiPageID
+1450
+haha
+onto keys
+http://www.georss.org/georss/point
+point
+1451
+haha
+onto keys
+http://dbpedia.org/property/gdpPpp
+gdpPpp
+1452
+haha
+onto keys
+http://dbpedia.org/property/fruit
+fruit
+1453
+haha
+onto keys
+http://dbpedia.org/property/imageMap
+imageMap
+1454
+haha
+onto keys
+http://dbpedia.org/property/officialLanguages
+officialLanguages
+1455
+haha
+onto keys
+http://dbpedia.org/property/governmentType
+governmentType
+1456
+haha
+onto keys
+http://dbpedia.org/property/hdi
+hdi
+1457
+haha
+onto keys
+http://dbpedia.org/property/anthem
+anthem
+1458
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapitaRank
+gdpPppPerCapitaRank
+1459
+haha
+onto keys
+http://dbpedia.org/property/altFlag
+altFlag
+1460
+haha
+onto keys
+http://dbpedia.org/property/leaderTitle
+leaderTitle
+1461
+haha
+onto keys
+http://dbpedia.org/property/areaKm
+areaKm
+1462
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdf-schema#seeAlso
+1463
+haha
+onto keys
+http://dbpedia.org/property/currency
+currency
+1464
+haha
+onto keys
+http://dbpedia.org/property/conventionalLongName
+conventionalLongName
+1465
+haha
+onto keys
+http://dbpedia.org/property/altMap
+altMap
+1466
+haha
+onto keys
+http://dbpedia.org/property/emblem
+emblem
+1467
+haha
+onto keys
+http://dbpedia.org/property/small
+small
+1468
+haha
+onto keys
+http://dbpedia.org/property/legislature
+legislature
+1469
+haha
+onto keys
+http://dbpedia.org/ontology/officialLanguage
+officialLanguage
+1470
+haha
+onto keys
+http://dbpedia.org/property/dateFormat
+dateFormat
+1471
+haha
+onto keys
+http://dbpedia.org/property/nationalAnthem
+nationalAnthem
+1472
+haha
+onto keys
+http://dbpedia.org/property/giniYear
+giniYear
+1473
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+wgs84_pos#long
+1474
+haha
+onto keys
+http://dbpedia.org/property/sovereigntyNote
+sovereigntyNote
+1475
+haha
+onto keys
+http://dbpedia.org/property/percentWater
+percentWater
+1476
+haha
+onto keys
+http://dbpedia.org/property/giniRank
+giniRank
+1477
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExternalLink
+wikiPageExternalLink
+1478
+haha
+onto keys
+http://dbpedia.org/property/religion
+religion
+1479
+haha
+onto keys
+http://dbpedia.org/property/hdiChange
+hdiChange
+1480
+haha
+onto keys
+http://dbpedia.org/property/symbolWidth
+symbolWidth
+1481
+haha
+onto keys
+http://dbpedia.org/property/s
+s
+1482
+haha
+onto keys
+http://dbpedia.org/property/wikiPageUsesTemplate
+wikiPageUsesTemplate
+1483
+haha
+onto keys
+http://dbpedia.org/property/languagesType
+languagesType
+1484
+haha
+onto keys
+http://dbpedia.org/property/timeZoneDst
+timeZoneDst
+1485
+haha
+onto keys
+http://dbpedia.org/property/gdpPppYear
+gdpPppYear
+1486
+haha
+onto keys
+http://dbpedia.org/ontology/populationTotal
+populationTotal
+1487
+haha
+onto keys
+http://dbpedia.org/property/voySearch
+voySearch
+1488
+haha
+onto keys
+http://dbpedia.org/property/hdiYear
+hdiYear
+1489
+haha
+onto keys
+http://dbpedia.org/property/drivesOn
+drivesOn
+1490
+haha
+onto keys
+http://dbpedia.org/property/v
+v
+1491
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageOutDegree
+wikiPageOutDegree
+1492
+haha
+onto keys
+http://dbpedia.org/property/calendar
+calendar
+1493
+haha
+onto keys
+http://dbpedia.org/property/areaMagnitude
+areaMagnitude
+1494
+haha
+onto keys
+http://dbpedia.org/property/imageCoat
+imageCoat
+1495
+haha
+onto keys
+http://xmlns.com/foaf/0.1/homepage
+homepage
+1496
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageRevisionID
+wikiPageRevisionID
+1497
+haha
+onto keys
+http://dbpedia.org/property/bird
+bird
+1498
+haha
+onto keys
+http://dbpedia.org/property/longew
+longew
+1499
+haha
+onto keys
+http://dbpedia.org/ontology/currency
+currency
+1500
+haha
+onto keys
+http://dbpedia.org/property/populationDensityRank
+populationDensityRank
+1501
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalYear
+gdpNominalYear
+1502
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateRank
+populationEstimateRank
+1503
+haha
+onto keys
+http://dbpedia.org/ontology/longName
+longName
+1504
+haha
+onto keys
+http://dbpedia.org/property/populationEstimate
+populationEstimate
+1505
+haha
+onto keys
+http://dbpedia.org/property/animal
+animal
+1506
+haha
+onto keys
+http://dbpedia.org/property/q
+q
+1507
+haha
+onto keys
+http://dbpedia.org/property/establishedDate
+establishedDate
+1508
+haha
+onto keys
+http://dbpedia.org/property/reason
+reason
+1509
+haha
+onto keys
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+22-rdf-syntax-ns#type
+1510
+haha
+onto keys
+http://dbpedia.org/ontology/foundingDate
+foundingDate
+1511
+haha
+onto keys
+http://dbpedia.org/ontology/capital
+capital
+1512
+haha
+onto keys
+http://dbpedia.org/property/largestCity
+largestCity
+1513
+haha
+onto keys
+http://dbpedia.org/property/capital
+capital
+1514
+haha
+onto keys
+http://dbpedia.org/property/lowerHouse
+lowerHouse
+1515
+haha
+onto keys
+http://dbpedia.org/property/nativeName
+nativeName
+1516
+haha
+onto keys
+http://dbpedia.org/property/populationCensusYear
+populationCensusYear
+1517
+haha
+onto keys
+http://dbpedia.org/property/regionType
+regionType
+1518
+haha
+onto keys
+http://dbpedia.org/property/gdpNominal
+gdpNominal
+1519
+haha
+onto keys
+http://dbpedia.org/property/river
+river
+1520
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapita
+gdpNominalPerCapita
+1521
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageModified
+wikiPageModified
+1522
+haha
+onto keys
+http://dbpedia.org/property/gdpPppPerCapita
+gdpPppPerCapita
+1523
+haha
+onto keys
+http://dbpedia.org/property/populationCensus
+populationCensus
+1524
+haha
+onto keys
+http://dbpedia.org/ontology/flag
+flag
+1525
+haha
+onto keys
+http://dbpedia.org/property/commonName
+commonName
+1526
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalPerCapitaRank
+gdpNominalPerCapitaRank
+1527
+haha
+onto keys
+http://dbpedia.org/ontology/percentageOfAreaWater
+percentageOfAreaWater
+1528
+haha
+onto keys
+http://dbpedia.org/property/voy
+voy
+1529
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageExtracted
+wikiPageExtracted
+1530
+haha
+onto keys
+http://dbpedia.org/property/altCoat
+altCoat
+1531
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageEditLink
+wikiPageEditLink
+1532
+haha
+onto keys
+http://dbpedia.org/property/gdpNominalRank
+gdpNominalRank
+1533
+haha
+onto keys
+http://dbpedia.org/ontology/governmentType
+governmentType
+1534
+haha
+onto keys
+http://dbpedia.org/property/establishedEvent
+establishedEvent
+1535
+haha
+onto keys
+http://dbpedia.org/ontology/timeZone
+timeZone
+1536
+haha
+onto keys
+http://dbpedia.org/property/gdpPppRank
+gdpPppRank
+1537
+haha
+onto keys
+http://dbpedia.org/property/n
+n
+1538
+haha
+onto keys
+http://dbpedia.org/property/commons
+commons
+1539
+haha
+onto keys
+http://dbpedia.org/property/flag
+flag
+1540
+haha
+onto keys
+http://dbpedia.org/property/right
+right
+1541
+haha
+onto keys
+http://dbpedia.org/property/imageFlag
+imageFlag
+1542
+haha
+onto keys
+http://dbpedia.org/ontology/leader
+leader
+1543
+haha
+onto keys
+http://dbpedia.org/property/gini
+gini
+1544
+haha
+onto keys
+http://dbpedia.org/ontology/wikiPageHistoryLink
+wikiPageHistoryLink
+1545
+haha
+onto keys
+http://dbpedia.org/property/symbolType
+symbolType
+1546
+haha
+onto keys
+http://dbpedia.org/property/b
+b
+1547
+haha
+onto keys
+http://dbpedia.org/ontology/leaderTitle
+leaderTitle
+1548
+haha
+onto keys
+http://dbpedia.org/property/upperHouse
+upperHouse
+1549
+haha
+onto keys
+http://dbpedia.org/property/latns
+latns
+1550
+haha
+onto keys
+http://dbpedia.org/property/language
+language
+1551
+haha
+onto keys
+http://dbpedia.org/property/areaSqMi
+areaSqMi
+1552
+haha
+onto keys
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+wgs84_pos#geometry
+1553
+haha
+onto keys
+http://dbpedia.org/ontology/abstract
+abstract
+1554
+haha
+onto keys
+http://purl.org/dc/terms/subject
+subject
+1555
+haha
+onto keys
+http://dbpedia.org/ontology/largestCity
+largestCity
+1556
+haha
+onto keys
+http://dbpedia.org/property/leaderName
+leaderName
+1557
+haha
+onto keys
+http://dbpedia.org/property/song
+song
+1558
+haha
+onto keys
+http://dbpedia.org/property/otherSymbol
+otherSymbol
+1559
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#label
+rdf-schema#label
+1560
+haha
+onto keys
+http://dbpedia.org/ontology/language
+language
+1561
+haha
+onto keys
+http://dbpedia.org/property/title
+title
+1562
+haha
+onto keys
+http://dbpedia.org/property/demonym
+demonym
+1563
+haha
+onto keys
+http://dbpedia.org/property/currencyCode
+currencyCode
+1564
+haha
+onto keys
+http://dbpedia.org/property/flower
+flower
+1565
+haha
+onto keys
+http://www.w3.org/2000/01/rdf-schema#comment
+rdf-schema#comment
+1566
+haha
+onto keys
+http://dbpedia.org/property/otherSymbolType
+otherSymbolType
+1567
+haha
+onto keys
+http://dbpedia.org/property/populationEstimateYear
+populationEstimateYear
+1568
+haha
+onto keys
+http://dbpedia.org/property/callingCode
+callingCode
+1569
+haha
+onto keys
+http://dbpedia.org/property/populationCensusRank
+populationCensusRank
+1570
+haha
+onto keys
+http://xmlns.com/foaf/0.1/name
+name
+1571
+haha
+onto keys
+http://dbpedia.org/property/game
+game
+1572
+haha
+onto keys
+http://dbpedia.org/property/mapWidth
+mapWidth
+1573
+top 5 ontologies : 
+[(1.0, 'http://dbpedia.org/ontology/leader'), (0.75, 'http://dbpedia.org/property/leaderName'), (0.7058823529411765, 'http://dbpedia.org/property/leaderTitle'), (0.6666666666666666, 'http://dbpedia.org/property/river'), (0.5714285714285714, 'http://www.georss.org/georss/point')]
+ in get onotlogy 
+Chief_Justice_of_India
+##question_hash##
+##answer_hash##
+{'1': {'leaderTitle': ['http://dbpedia.org/resource/Chief_Justice_of_India', 'http://dbpedia.org/resource/President_of_India', 'http://dbpedia.org/resource/Prime_Minister_of_India', 'http://dbpedia.org/resource/Speaker_of_the_Lok_Sabha', 'http://dbpedia.org/resource/Vice-President_of_India'], 'river': ['http://dbpedia.org/resource/Ganga'], 'leaderName': ['http://dbpedia.org/resource/Mohammad_Hamid_Ansari', 'http://dbpedia.org/resource/Pranab_Mukherjee', 'http://dbpedia.org/resource/Sumitra_Mahajan', 'http://dbpedia.org/resource/Jagdish_Singh_Khehar', 'P6|from=Q668'], 'leader': ['http://dbpedia.org/resource/Mohammad_Hamid_Ansari', 'http://dbpedia.org/resource/Pranab_Mukherjee', 'http://dbpedia.org/resource/Sumitra_Mahajan', 'http://dbpedia.org/resource/Jagdish_Singh_Khehar'], 'point': ['28.613333333333333 77.20833333333333']}, '2': {'leaderName': None, 'producer': None, 'revenue': None, 'numberOfStudents': None, 'birthDate': None, 'currency': None, 'networth': None, 'distributor': None, 'areaTotal': None, 'occupation': None, 'deathDate': None, 'founder': None, 'author': None, 'anthem': None, 'editing': None, 'label': ['Chief Justice of India'], 'cinematography': None, 'leaderTitle': None, 'location': None, 'capital': None, 'homepage': ['http://www.supremecourtofindia.nic.in/'], 'leader': None, 'facultySize': None, 'numberOfEmployees': None, 'director': None, 'wiki_page_url': ['http://en.wikipedia.org/wiki/Chief_Justice_of_India'], 'starring': None, 'spouse': None, 'foundedBy': None, 'name': None, 'url': None, 'country': None, 'thumbnail': None, 'length': None, 'locationCity': None, 'runtime': None}}

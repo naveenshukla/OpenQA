@@ -30,23 +30,53 @@ def	get_json(url):
 def	spot_keywords(question, chunk_string):
 		spot_keywords = {}
 		index = 1
-		confidence = 1.0
+		confidence = 0
 		repeat_list = []
-		while confidence >= 0.1:
-			req = insert(question.replace(' ','+'), str(confidence))
-			json = get_json(req)
-			if json.get('Resources') != None:
-				Resources = json['Resources']
-				for Resource in Resources:
-					if Resource['@surfaceForm'] in chunk_string and Resource['@URI'] not in repeat_list:
-						resource_hash = {}
-						resource_hash['url'] = Resource['@URI']
-						resource_hash['types'] = Resource['@types']
-						resource_hash['surfaceForm'] = Resource['@surfaceForm']
-						spot_keywords[str(index)] = resource_hash
-						index += 1
-						repeat_list.append(Resource['@URI'])
-			confidence -= 0.1
+		req = insert(question.replace(' ','+'), str(confidence))
+		json = get_json(req)
+		json = json['annotation']
+		if json.get('surfaceForm')!=None:
+			surfaceForms = json['surfaceForm']
+			for surfaceForm in surfaceForms:
+				if surfaceForm['@name'] in chunk_string:
+					if surfaceForm.get('resource') != None:
+						resources = surfaceForm['resource']
+						if isinstance(resources, list):
+							# print ("resource is list ")
+							for resource in resources:
+								if resource['@uri'] not in repeat_list:
+									resource_hash = {}
+									resource_hash['url'] = "http://live.dbpedia.org/resource/" + resource['@uri']
+									resource_hash['surfaceForm'] = surfaceForm['@name']
+									resource_hash['types'] = resource['@types']
+									repeat_list.append(resource['@uri'])
+									spot_keywords[str(index)] = resource_hash
+									index += 1
+						else:
+							if resources['@uri'] not in repeat_list:
+								resource_hash = {}
+								resource_hash['url'] = "http://live.dbpedia.org/resource/" + resources['@uri']
+								resource_hash['surfaceForm'] = surfaceForm['@name']
+								resource_hash['types'] = resources['@types']
+								repeat_list.append(resources['@uri'])
+								spot_keywords[str(index)] = resource_hash
+								index += 1
+		# print spot_keywords
+		# if json.get('Resources') != None:
+		# 	Resources = json['Resources']
+		# 	for Resource in Resources:
+		# 		if Resource['@surfaceForm'] in chunk_string and Resource['@URI'] not in repeat_list:
+		# 			resource_hash = {}
+		# 			resource_hash['url'] = Resource['@URI']
+		# 			url = resource_hash['url']
+		# 			url = url[:7] + 'live.' + url[7:]
+		# 			resource_hash['url'] = url
+		# 			print resource_hash['url']
+		# 			resource_hash['types'] = Resource['@types']
+		# 			resource_hash['surfaceForm'] = Resource['@surfaceForm']
+		# 			spot_keywords[str(index)] = resource_hash
+		# 			index += 1
+		# 			repeat_list.append(Resource['@URI'])
 
 		return spot_keywords
 					
@@ -64,7 +94,7 @@ def	main():
 		else:
 			req = insert(args[0].replace(' ','+'), args[1], args[2], args[3], args[4], args[5], args[6], args[7])
 
-		print(json.dumps(get_json(req), sort_keys=True, indent=4, separators=(',',': ')))
+		# print(json.dumps(get_json(req), sort_keys=True, indent=4, separators=(',',': ')))
 
 
 if __name__ == '__main__':

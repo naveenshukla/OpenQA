@@ -1,0 +1,37 @@
+{
+    "@confidence": "0.0",
+    "@policy": "whitelist",
+    "@sparql": "",
+    "@support": "0",
+    "@text": "Who is the president of India?",
+    "@types": "",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/The_Who",
+            "@offset": "0",
+            "@percentageOfSecondRank": "1.474520231982682E-8",
+            "@similarityScore": "0.9999999713595575",
+            "@support": "3677",
+            "@surfaceForm": "Who",
+            "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President",
+            "@offset": "11",
+            "@percentageOfSecondRank": "0.10521176511309328",
+            "@similarityScore": "0.822425714120137",
+            "@support": "8449",
+            "@surfaceForm": "president",
+            "@types": ""
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/India",
+            "@offset": "24",
+            "@percentageOfSecondRank": "1.3690700008282534E-4",
+            "@similarityScore": "0.9996189169424198",
+            "@support": "205833",
+            "@surfaceForm": "India",
+            "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+        }
+    ]
+}

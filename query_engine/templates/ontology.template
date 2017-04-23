@@ -1,1 +1,1 @@
-http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+*+where%0D%0A%7B%0D%0A%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F{resource}%3E+%3FProperty%3Fh+.%0D%0A%0D%0A%7D&format=text%2Fcsv&timeout=1000000&debug=on
+http://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Flive.dbpedia.org&query=select+*+where%0D%0A%7B%0D%0A%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F{resource}%3E+%3FProperty%3Fh+.%0D%0A%0D%0A%7D&format=text%2Fcsv&timeout=1000000&debug=on

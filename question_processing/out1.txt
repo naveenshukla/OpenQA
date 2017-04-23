@@ -1,0 +1,255 @@
+{
+    "annotation": {
+        "@text": "Who is the president of India?",
+        "surfaceForm": [
+            {
+                "@name": "Who",
+                "@offset": "0",
+                "resource": [
+                    {
+                        "@contextualScore": "0.9999543495251154",
+                        "@finalScore": "0.9999999713595575",
+                        "@label": "The Who",
+                        "@percentageOfSecondRank": "1.474520231982682E-8",
+                        "@priorScore": "3.058536767063919E-5",
+                        "@support": "3677",
+                        "@types": "Schema:MusicGroup, DBpedia:Agent, Schema:Organization, DBpedia:Organisation, DBpedia:Band",
+                        "@uri": "The_Who"
+                    },
+                    {
+                        "@contextualScore": "1.5216824962263034E-5",
+                        "@finalScore": "1.4745201897517701E-8",
+                        "@label": "Who (magazine)",
+                        "@percentageOfSecondRank": "0.5915966386554644",
+                        "@priorScore": "2.911307773925406E-7",
+                        "@support": "35",
+                        "@types": "",
+                        "@uri": "Who_(magazine)"
+                    },
+                    {
+                        "@contextualScore": "1.5216824962263034E-5",
+                        "@finalScore": "8.723211878867647E-9",
+                        "@label": "Who (pronoun)",
+                        "@percentageOfSecondRank": "0.0",
+                        "@priorScore": "7.319859545869592E-7",
+                        "@support": "88",
+                        "@types": "",
+                        "@uri": "Who_(pronoun)"
+                    }
+                ]
+            },
+            {
+                "@name": "president",
+                "@offset": "11",
+                "resource": [
+                    {
+                        "@contextualScore": "0.19634823410213897",
+                        "@finalScore": "0.822425714120137",
+                        "@label": "President",
+                        "@percentageOfSecondRank": "0.10521176511309328",
+                        "@priorScore": "7.027896966255929E-5",
+                        "@support": "8449",
+                        "@types": "",
+                        "@uri": "President"
+                    },
+                    {
+                        "@contextualScore": "0.021565545877426734",
+                        "@finalScore": "0.08652886105697587",
+                        "@label": "President of the United States",
+                        "@percentageOfSecondRank": "0.3873299922196444",
+                        "@priorScore": "2.808912920505344E-4",
+                        "@support": "33769",
+                        "@types": "",
+                        "@uri": "President_of_the_United_States"
+                    },
+                    {
+                        "@contextualScore": "0.10791905761103979",
+                        "@finalScore": "0.03351522307997315",
+                        "@label": "Mission president",
+                        "@percentageOfSecondRank": "0.5809551145205107",
+                        "@priorScore": "1.2152630450585766E-5",
+                        "@support": "1461",
+                        "@types": "",
+                        "@uri": "Mission_president"
+                    },
+                    {
+                        "@contextualScore": "0.05523442391970713",
+                        "@finalScore": "0.01947084026260627",
+                        "@label": "Chancellor (education)",
+                        "@percentageOfSecondRank": "0.8313402861923774",
+                        "@priorScore": "3.282291564545615E-5",
+                        "@support": "3946",
+                        "@types": "",
+                        "@uri": "Chancellor_(education)"
+                    },
+                    {
+                        "@contextualScore": "0.15098074983666573",
+                        "@finalScore": "0.016186893916321162",
+                        "@label": "President of the Philippines",
+                        "@percentageOfSecondRank": "0.5197496565118415",
+                        "@priorScore": "2.9029897517141905E-5",
+                        "@support": "3490",
+                        "@types": "",
+                        "@uri": "President_of_the_Philippines"
+                    },
+                    {
+                        "@contextualScore": "0.07898138517883217",
+                        "@finalScore": "0.00841313255300154",
+                        "@label": "Stake (Latter Day Saints)",
+                        "@percentageOfSecondRank": "0.6855517943775352",
+                        "@priorScore": "1.3749690715139132E-5",
+                        "@support": "1653",
+                        "@types": "",
+                        "@uri": "Stake_(Latter_Day_Saints)"
+                    },
+                    {
+                        "@contextualScore": "0.16545260066610662",
+                        "@finalScore": "0.00576763811804626",
+                        "@label": "President of Russia",
+                        "@percentageOfSecondRank": "0.7214101490861956",
+                        "@priorScore": "1.4930849869131725E-5",
+                        "@support": "1795",
+                        "@types": "",
+                        "@uri": "President_of_Russia"
+                    },
+                    {
+                        "@contextualScore": "0.053717482597721265",
+                        "@finalScore": "0.0041608326746149765",
+                        "@label": "President of the Church",
+                        "@percentageOfSecondRank": "0.8485839279439915",
+                        "@priorScore": "9.998262697880965E-6",
+                        "@support": "1202",
+                        "@types": "",
+                        "@uri": "President_of_the_Church"
+                    },
+                    {
+                        "@contextualScore": "0.16979943311064197",
+                        "@finalScore": "0.003530815734542481",
+                        "@label": "President of Chile",
+                        "@percentageOfSecondRank": "1.3706862944895334E-5",
+                        "@priorScore": "6.488057324748047E-6",
+                        "@support": "780",
+                        "@types": "",
+                        "@uri": "President_of_Chile"
+                    },
+                    {
+                        "@contextualScore": "1.0417787403715716E-6",
+                        "@finalScore": "4.839640735705374E-8",
+                        "@label": "Temple president",
+                        "@percentageOfSecondRank": "0.0",
+                        "@priorScore": "4.466777927422694E-6",
+                        "@support": "537",
+                        "@types": "",
+                        "@uri": "Temple_president"
+                    }
+                ]
+            },
+            {
+                "@name": "India",
+                "@offset": "24",
+                "resource": [
+                    {
+                        "@contextualScore": "0.2444513415834096",
+                        "@finalScore": "0.9996189169424198",
+                        "@label": "India",
+                        "@percentageOfSecondRank": "1.3690700008282534E-4",
+                        "@priorScore": "0.0017121234658011087",
+                        "@support": "205833",
+                        "@types": "Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, Schema:Country, DBpedia:Country",
+                        "@uri": "India"
+                    },
+                    {
+                        "@contextualScore": "0.03254195083768063",
+                        "@finalScore": "1.3685482714462965E-4",
+                        "@label": "India national cricket team",
+                        "@percentageOfSecondRank": "0.9275881989673229",
+                        "@priorScore": "5.4383229216926585E-5",
+                        "@support": "6538",
+                        "@types": "",
+                        "@uri": "India_national_cricket_team"
+                    },
+                    {
+                        "@contextualScore": "0.10722371550298226",
+                        "@finalScore": "1.269449226310713E-4",
+                        "@label": "Presidencies and provinces of British India",
+                        "@percentageOfSecondRank": "0.7018170016634024",
+                        "@priorScore": "5.025749020016372E-5",
+                        "@support": "6042",
+                        "@types": "",
+                        "@uri": "Presidencies_and_provinces_of_British_India"
+                    },
+                    {
+                        "@contextualScore": "0.11731662924772177",
+                        "@finalScore": "8.909210497733106E-5",
+                        "@label": "British Raj",
+                        "@percentageOfSecondRank": "0.12200892071253627",
+                        "@priorScore": "5.266139861920498E-5",
+                        "@support": "6331",
+                        "@types": "Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, Schema:Country, DBpedia:Country",
+                        "@uri": "British_Raj"
+                    },
+                    {
+                        "@contextualScore": "0.1253335332747072",
+                        "@finalScore": "1.0870031572292145E-5",
+                        "@label": "Dominion of India",
+                        "@percentageOfSecondRank": "0.869931544377844",
+                        "@priorScore": "9.507499387419254E-6",
+                        "@support": "1143",
+                        "@types": "Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, Schema:Country, DBpedia:Country",
+                        "@uri": "Dominion_of_India"
+                    },
+                    {
+                        "@contextualScore": "0.08770554774061047",
+                        "@finalScore": "9.456183353120029E-6",
+                        "@label": "History of India",
+                        "@percentageOfSecondRank": "0.6074171806416038",
+                        "@priorScore": "1.110455965197262E-5",
+                        "@support": "1335",
+                        "@types": "",
+                        "@uri": "History_of_India"
+                    },
+                    {
+                        "@contextualScore": "0.03754407149270935",
+                        "@finalScore": "5.743848231982236E-6",
+                        "@label": "Indian subcontinent",
+                        "@percentageOfSecondRank": "0.22973476414528257",
+                        "@priorScore": "2.804005287400727E-5",
+                        "@support": "3371",
+                        "@types": "Schema:Place, DBpedia:Place, DBpedia:PopulatedPlace, Schema:Continent, DBpedia:Continent",
+                        "@uri": "Indian_subcontinent"
+                    },
+                    {
+                        "@contextualScore": "0.21685374119746634",
+                        "@finalScore": "1.319561618860737E-6",
+                        "@label": "India national field hockey team",
+                        "@percentageOfSecondRank": "0.6074414778290466",
+                        "@priorScore": "2.470452596730987E-6",
+                        "@support": "297",
+                        "@types": "",
+                        "@uri": "India_national_field_hockey_team"
+                    },
+                    {
+                        "@contextualScore": "0.03102907254640338",
+                        "@finalScore": "8.015564598472551E-7",
+                        "@label": "India national women's cricket team",
+                        "@percentageOfSecondRank": "2.633327951130177E-5",
+                        "@priorScore": "4.175647150030154E-6",
+                        "@support": "502",
+                        "@types": "",
+                        "@uri": "India_national_women's_cricket_team"
+                    },
+                    {
+                        "@contextualScore": "3.757089128110442E-7",
+                        "@finalScore": "2.1107610301247303E-11",
+                        "@label": "India national football team",
+                        "@percentageOfSecondRank": "0.0",
+                        "@priorScore": "6.463103258114401E-6",
+                        "@support": "777",
+                        "@types": "DBpedia:Agent, Schema:Organization, DBpedia:Organisation, Schema:SportsTeam, DBpedia:SportsTeam, DBpedia:SoccerClub",
+                        "@uri": "India_national_football_team"
+                    }
+                ]
+            }
+        ]
+    }
+}

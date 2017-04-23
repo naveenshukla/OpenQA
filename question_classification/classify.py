@@ -5,9 +5,10 @@ import nltk
 import ast
 
 home = ast.literal_eval(open('.config', 'rU').read())['home']
-
+print('created')
 def	classify(question):
 		question = preprocess(question)
+		print('classifying')
 		coarse_class = percepclassify.classify(question, percepclassify.get_g_hash_from_file(home+'data/models/coarse.model'))
 		fine_class = percepclassify.classify(question, percepclassify.get_g_hash_from_file(home+'data/models/fine.'+coarse_class+'.model'))
 		return coarse_class+':'+fine_class
