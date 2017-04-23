@@ -1,2 +1,0 @@
-##QA agent based on DBPEDIA:
-A Factoid Question Answering system that leverages information from info boxes in Wikipedia available as DBpedia ontology graphs. System uses NLP techniques such as classification, parts of speech tagging, chunking to derive what is being asked , where exactly to look for in DBpedia Ontology for the exact answer. We have benchmarked our system against Commercial System such as Google search engine, Evi and Wolfram alpha.
